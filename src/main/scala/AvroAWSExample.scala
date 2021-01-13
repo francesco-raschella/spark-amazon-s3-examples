@@ -1,0 +1,3 @@
+object AvroAWSExample extends App{
+
+}

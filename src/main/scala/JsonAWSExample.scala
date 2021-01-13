@@ -1,0 +1,3 @@
+object JsonAWSExample extends App{
+
+}
